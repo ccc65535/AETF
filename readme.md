@@ -1,0 +1,3 @@
+# Augmenting EEG Transformer (AETF) for SSVEP-Based Brain-Computer Interfaces
+
+This study introduces Background EEG Mixing (BGMix), a novel data augmentation technique grounded in neural principles that enhances training samples by replacing background noise between different classes. Building on this, we propose the Augment EEG Transformer (AETF), a Transformer-based model designed to capture the temporal, spatial, and frequential features of EEG signals, leveraging the advantages of Transformer architectures.
